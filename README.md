@@ -40,6 +40,16 @@
 				<a href="">网易云课堂</a>
 			</td>
 		</tr>
+		<tr>
+			<td>第3课</td>
+			<td><a href="lectures/lecture3/lecture3.md">创建博客首页</a></td>
+			<td>
+				<a href="">土豆网</a>
+				<a href="">优才网</a>
+				<a href="">皆学问</a>
+				<a href="">网易云课堂</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
