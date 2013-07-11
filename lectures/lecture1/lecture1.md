@@ -25,4 +25,4 @@
 - [Qbs](https://github.com/coocood/qbs)
 
 ###课程链接
-- [第2课：初窥 Web 开发](lectures/lecture2/lecture2.md)
+- [第2课：初窥 Web 开发](../lecture2/lecture2.md)
