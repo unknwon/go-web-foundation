@@ -15,6 +15,7 @@
 ### 教程大纲
 
 - 第1课：[博客项目设计](lectures/lecture1/lecture1.md)（[土豆网] [优才网] [皆学问] [网易云课堂]）
+- 第2课：[初窥 Web 开发](lectures/lecture2/lecture2.md)（[土豆网] [优才网] [皆学问] [网易云课堂]）
 
 ### 相关链接
 
