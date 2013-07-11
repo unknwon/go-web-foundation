@@ -13,9 +13,35 @@
 - 收录网站： **[优才网]() [皆学问]() [网易云课堂]()**
 
 ### 教程大纲
-
-- 第1课：[博客项目设计](lectures/lecture1/lecture1.md)（[土豆网] [优才网] [皆学问] [网易云课堂]）
-- 第2课：[初窥 Web 开发](lectures/lecture2/lecture2.md)（[土豆网] [优才网] [皆学问] [网易云课堂]）
+<table class="table table-condensed table-bordered">
+	<tbody>
+		<tr>
+			<th>课时</th>
+			<th>标题</th>
+			<th>在线观看</th>
+		</tr>
+		<tr>
+			<td>第1课</td>
+			<td><a href="lectures/lecture1/lecture1.md">博客项目设计</a></td>
+			<td>
+				<a href="">土豆网</a>
+				<a href="">优才网</a>
+				<a href="">皆学问</a>
+				<a href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第2课</td>
+			<td><a href="lectures/lecture2/lecture2.md">初窥 Web 开发</a></td>
+			<td>
+				<a href="">土豆网</a>
+				<a href="">优才网</a>
+				<a href="">皆学问</a>
+				<a href="">网易云课堂</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ### 相关链接
 
