@@ -7,7 +7,7 @@
 - 教程讲师：[无闻](http://weibo.com/Obahua)
 - 教程简介：《Go Web基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向完成《Go编程基础》教程后希望了解有关 Go Web 开发的学习者。
 - Go语言版本：1.1.1
-- 教程涉及第三方库：[Beego](https://github.com/astaxie/beego)、[Qbs](https://github.com/coocood/qbs)、[go-sqlite3](https://github.com/mattn/go-sqlite3)
+- 教程涉及第三方库：[Beego](https://github.com/astaxie/beego)（V0.7.2）、[Qbs](https://github.com/coocood/qbs)（v0.2）、[go-sqlite3](https://github.com/mattn/go-sqlite3)
 - 教程开发环境：Windows 7 64位
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - 收录网站： **[优才网]() [皆学问]() [网易云课堂]()**
@@ -24,30 +24,108 @@
 			<td>第1课</td>
 			<td><a href="lectures/lecture1/lecture1.md">博客项目设计</a></td>
 			<td>
-				<a href="">土豆网</a>
-				<a href="">优才网</a>
-				<a href="">皆学问</a>
-				<a href="">网易云课堂</a>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
 		<tr>
 			<td>第2课</td>
 			<td><a href="lectures/lecture2/lecture2.md">初窥 Web 开发</a></td>
 			<td>
-				<a href="">土豆网</a>
-				<a href="">优才网</a>
-				<a href="">皆学问</a>
-				<a href="">网易云课堂</a>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
 		<tr>
 			<td>第3课</td>
-			<td><a href="lectures/lecture3/lecture3.md">创建博客首页</a></td>
+			<td><a1 href="lectures/lecture3/lecture3.md">创建博客首页</a></td>
 			<td>
-				<a href="">土豆网</a>
-				<a href="">优才网</a>
-				<a href="">皆学问</a>
-				<a href="">网易云课堂</a>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第4课</td>
+			<td><a1 href="lectures/lecture4/lecture4.md">博客分类管理</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第5课</td>
+			<td><a1 href="lectures/lecture5/lecture5.md">文章的添加与删除</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第6课</td>
+			<td><a1 href="lectures/lecture6/lecture6.md">实现评论功能</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第7课</td>
+			<td><a1 href="lectures/lecture7/lecture7.md">为文章增加标签</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第8课</td>
+			<td><a1 href="lectures/lecture8/lecture8.md">增加登录限制</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第9课</td>
+			<td><a1 href="lectures/lecture9/lecture9.md">自建 HTTP server</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第10课</td>
+			<td><a1 href="lectures/lecture10/lecture10.md">简易的 RPC 实现</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第11课</td>
+			<td><a1 href="lectures/lecture11/lecture11.md">搭建 REST 服务</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第12课</td>
+			<td><a1 href="lectures/lecture12/lecture12.md">网站安全浅析</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
 	</tbody>
@@ -69,6 +147,7 @@
 ### 参考资料
 
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
+- [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
 
 ### 捐助作者
 
