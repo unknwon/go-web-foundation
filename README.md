@@ -85,7 +85,7 @@
 		</tr>
 		<tr>
 			<td>第8课</td>
-			<td><a1 href="lectures/lecture8/lecture8.md">增加登录限制</a></td>
+			<td><a1 href="lectures/lecture8/lecture8.md">模板函数与图片上传</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -94,7 +94,7 @@
 		</tr>
 		<tr>
 			<td>第9课</td>
-			<td><a1 href="lectures/lecture9/lecture9.md">自建 HTTP server</a></td>
+			<td><a1 href="lectures/lecture9/lecture9.md">增加登录限制</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -103,7 +103,7 @@
 		</tr>
 		<tr>
 			<td>第10课</td>
-			<td><a1 href="lectures/lecture10/lecture10.md">简易的 RPC 实现</a></td>
+			<td><a1 href="lectures/lecture10/lecture10.md">自建 HTTP server</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -112,7 +112,7 @@
 		</tr>
 		<tr>
 			<td>第11课</td>
-			<td><a1 href="lectures/lecture11/lecture11.md">搭建 REST 服务</a></td>
+			<td><a1 href="lectures/lecture11/lecture11.md">简易的 RPC 实现</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -121,7 +121,16 @@
 		</tr>
 		<tr>
 			<td>第12课</td>
-			<td><a1 href="lectures/lecture12/lecture12.md">网站安全浅析</a></td>
+			<td><a1 href="lectures/lecture12/lecture12.md">搭建 REST 服务</a></td>
+			<td>
+				<a1 href="">土豆网</a>
+				<a1 href="">优才网</a>
+				<a1 href="">网易云课堂</a>
+			</td>
+		</tr>
+		<tr>
+			<td>第13课</td>
+			<td><a1 href="lectures/lecture13/lecture13.md">网站安全浅析</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
