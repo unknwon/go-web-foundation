@@ -24,7 +24,7 @@
 			<td>第1课</td>
 			<td><a href="lectures/lecture1/lecture1.md">博客项目设计</a></td>
 			<td>
-				<a1 href="">土豆网</a>
+				<a href="http://www.tudou.com/programs/view/gXZb9tGNsGU/">土豆网</a>
 				<a1 href="">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
