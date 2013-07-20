@@ -10,7 +10,7 @@
 - 教程涉及第三方库：[Beego](https://github.com/astaxie/beego)（V0.7.2）、[Qbs](https://github.com/coocood/qbs)（v0.2）、[go-sqlite3](https://github.com/mattn/go-sqlite3)
 - 教程开发环境：Windows 7 64位
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
-- 收录网站： **[优才网]() [皆学问]() [网易云课堂]()**
+- 收录网站： **[优才网](http://www.ucai.cn/course/show/87) [皆学问]() [网易云课堂]()**
 
 ### 教程大纲
 <table class="table table-condensed table-bordered">
@@ -25,7 +25,7 @@
 			<td><a href="lectures/lecture1/lecture1.md">博客项目设计</a></td>
 			<td>
 				<a href="http://www.tudou.com/programs/view/gXZb9tGNsGU/">土豆网</a>
-				<a1 href="">优才网</a>
+				<a href="http://www.ucai.cn/course/chapter/87/3267/4710">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
