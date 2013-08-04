@@ -19,7 +19,7 @@
 ###相关链接
 - [Bee 工具](https://github.com/astaxie/bee)
 - [Beego 官网](http://beego.me)
-- [Beego 配置管理](http://beego.me/docs/Reference_app.conf)
+- [Beego 配置管理](http://beego.me/docs/Reference_AppConf)
 - [Beego 日志级别](http://beego.me/docs/Reference_Logging)
 
 ###课程链接
