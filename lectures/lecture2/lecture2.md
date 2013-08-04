@@ -18,9 +18,9 @@
 
 ###相关链接
 - [Bee 工具](https://github.com/astaxie/bee)
-- [Beego 快速入门](https://github.com/astaxie/beego/blob/master/docs/zh/Quickstart.md)
-- [Beego 配置管理](https://github.com/astaxie/beego/blob/master/docs/zh/Quickstart.md#%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86)
-- [Beego 日志级别](https://github.com/astaxie/beego/blob/master/docs/zh/Quickstart.md#%E4%B8%8D%E5%90%8C%E7%BA%A7%E5%88%AB%E7%9A%84log%E6%97%A5%E5%BF%97%E5%87%BD%E6%95%B0)
+- [Beego 官网](http://beego.me)
+- [Beego 配置管理](http://beego.me/docs/Reference_app.conf)
+- [Beego 日志级别](http://beego.me/docs/Reference_Logging)
 
 ###课程链接
 - [第1课：博客项目设计](../lecture1/lecture1.md)
