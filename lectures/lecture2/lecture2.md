@@ -3,7 +3,7 @@
 
 ###基本信息
 - 课程时长：43:31
-- 在线观看：[土豆网] [优才网] [网易云课堂]
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/sqZoUrqNJno/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4732) [网易云课堂]
 
 ###课程大纲
 	[00:00] Beego 版 “Hello World”
@@ -20,7 +20,7 @@
 - [Bee 工具](https://github.com/astaxie/bee)
 - [Beego 官网](http://beego.me)
 - [Beego 配置管理](http://beego.me/docs/Reference_AppConf)
-- [Beego 日志级别](http://beego.me/docs/Reference_Logging)
+- [Beego 日志级别](http://beego.me/docs/Operational_Logging)
 
 ###课程链接
 - [第1课：博客项目设计](../lecture1/lecture1.md)
