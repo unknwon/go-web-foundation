@@ -40,7 +40,7 @@
 		</tr>
 		<tr>
 			<td>第3课</td>
-			<td><a1 href="lectures/lecture3/lecture3.md">创建博客首页</a></td>
+			<td><a href="lectures/lecture3/lecture3.md">模板用法讲解</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>

@@ -24,4 +24,4 @@
 
 ###课程链接
 - [第1课：博客项目设计](../lecture1/lecture1.md)
-- [第3课：创建博客首页](../lecture3/lecture3.md)
+- [第3课：模板用法讲解](../lecture3/lecture3.md)
