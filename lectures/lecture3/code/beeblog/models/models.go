@@ -21,9 +21,9 @@ const (
 type Category struct {
 	Id              int64
 	Title           string
-	Created         time.Time //`orm:"index"`
-	Views           int64     //`orm:"index"`
-	TopicTime       time.Time // `orm:"index"`
+	Created         time.Time `orm:"index"`
+	Views           int64     `orm:"index"`
+	TopicTime       time.Time `orm:"index"`
 	TopicCount      int64
 	TopicLastUserId int64
 }
@@ -31,24 +31,17 @@ type Category struct {
 // 文章
 type Topic struct {
 	Id              int64
-	Uid             int64
+	Uid             int64 `orm:"index"`
 	Title           string
 	Content         string `orm:"size(5000)"`
 	Attachment      string
-	Created         time.Time
-	Updated         time.Time
-	Views           int64
+	Created         time.Time `orm:"index"`
+	Updated         time.Time `orm:"index"`
+	Views           int64     `orm:"index"`
 	Author          string
-	ReplyTime       time.Time
+	ReplyTime       time.Time `orm:"index"`
 	ReplyCount      int64
 	ReplyLastUserId int64
-}
-
-// 添加索引
-func (*Topic) TableIndex() [][]string {
-	return [][]string{
-		[]string{"Id", "Uid", "Created", "Updated", "Views", "ReplyTime"},
-	}
 }
 
 func RegisterDB() {
@@ -60,7 +53,7 @@ func RegisterDB() {
 
 	// 注册模型
 	orm.RegisterModel(new(Category), new(Topic))
-	// 注册驱动
+	// 注册驱动（“sqlite3” 属于默认注册，此处代码可省略）
 	orm.RegisterDriver(_SQLITE3_DRIVER, orm.DR_Sqlite)
 	// 注册默认数据库
 	orm.RegisterDataBase("default", _SQLITE3_DRIVER, _DB_NAME, 10)

@@ -20,6 +20,8 @@
 ###相关链接
 
 - [Go 模板教程](https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/07.4.md)
+- [Bootstrap v3](http://v3.bootcss.com/)
+- [七牛静态文件 CDN](http://www.staticfile.org/)
 
 ###课程链接
 - [第2课：初窥 Web 开发](../lecture2/lecture2.md)

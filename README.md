@@ -157,7 +157,7 @@
 
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
 - [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
-- [速度中国](https://github.com/insionng/toropress)（正雄）
+- [速动中国](https://github.com/insionng/toropress)（正雄）
 
 ### 捐助作者
 

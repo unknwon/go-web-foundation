@@ -20,7 +20,7 @@ func main() {
 	orm.Debug = true
 
 	// 注册 beego 路由
-	beego.Router("/", &controllers.MainController{})
+	beego.Router("/", &controllers.HomeController{})
 
 	// 启动 beego
 	beego.Run()
