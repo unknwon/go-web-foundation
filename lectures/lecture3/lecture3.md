@@ -3,7 +3,7 @@
 
 ###基本信息
 - 课程时长：47:41
-- 在线观看：[土豆网] [优才网] [网易云课堂]
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/BuoN93Yplow/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4792) [网易云课堂]
 
 ###课程大纲
 	[00:00] 知识回顾
@@ -23,5 +23,6 @@
 - [七牛静态文件 CDN](http://www.staticfile.org/)
 
 ###课程链接
+
 - [第2课：初窥 Web 开发](../lecture2/lecture2.md)
 - [第4课：博客分类管理](../lecture4/lecture4.md)
