@@ -30,7 +30,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第2课</td>
+			<td>第 2 课</td>
 			<td><a href="lectures/lecture2/lecture2.md">初窥 Web 开发</a></td>
 			<td>
 				<a href="http://www.tudou.com/programs/view/sqZoUrqNJno/">土豆网</a>
@@ -39,7 +39,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第3课</td>
+			<td>第 3 课</td>
 			<td><a href="lectures/lecture3/lecture3.md">模板用法讲解</a></td>
 			<td>
 				<a href="http://www.tudou.com/programs/view/BuoN93Yplow/">土豆网</a>
@@ -48,8 +48,8 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第4课</td>
-			<td><a1 href="lectures/lecture4/lecture4.md">博客分类管理</a></td>
+			<td>第 4 课</td>
+			<td><a1 href="lectures/lecture4/lecture4.md">用户登录及管理</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -57,7 +57,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第5课</td>
+			<td>第 5 课</td>
 			<td><a1 href="lectures/lecture5/lecture5.md">文章的添加与删除</a></td>
 			<td>
 				<a1 href="">土豆网</a>
@@ -66,7 +66,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第6课</td>
+			<td>第 6 课</td>
 			<td><a1 href="lectures/lecture6/lecture6.md">实现评论功能</a></td>
 			<td>
 				<a1 href="">土豆网</a>
@@ -75,7 +75,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第7课</td>
+			<td>第 7 课</td>
 			<td><a1 href="lectures/lecture7/lecture7.md">为文章增加标签</a></td>
 			<td>
 				<a1 href="">土豆网</a>
