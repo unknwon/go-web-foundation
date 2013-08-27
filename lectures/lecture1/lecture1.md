@@ -10,7 +10,7 @@
 	[03:20] 课程相关工具配置
 	[08:10] MVC 项目创建
 	[11:00] 数据库结构设计与 Qbs
-	[13:20] 控制器设计与 Beego
+	[13:20] 控制器设计与 beego
 	[19:00] 前端相关问题
 	
 ###补充说明
@@ -21,7 +21,7 @@
 - [Sublime Text 2 入门及技巧](http://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/)
 - [Sublime + GoSublime 配置教程](http://my.oschina.net/Obahua/blog/110767)
 - [go-sqlite3 安装教程](http://my.oschina.net/Obahua/blog/129689)
-- [Beego](https://github.com/astaxie/beego)
+- [beego](https://github.com/astaxie/beego)
 - [Qbs](https://github.com/coocood/qbs)
 - [Bootstrap](http://bootcss.com)
 - [Go 初学者常问的问题FAQ](http://bbs.studygolang.com/thread-67-1-1.html)

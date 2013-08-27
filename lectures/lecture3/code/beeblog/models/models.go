@@ -31,7 +31,7 @@ type Category struct {
 // 文章
 type Topic struct {
 	Id              int64
-	Uid             int64 `orm:"index"`
+	Uid             int64
 	Title           string
 	Content         string `orm:"size(5000)"`
 	Attachment      string

@@ -13,11 +13,10 @@ func init() {
 }
 
 func main() {
-	// ORM 命令行模式，用于自动建表，一般只用一次
-	orm.RunCommand()
-
 	// 开启 ORM 调试模式
 	orm.Debug = true
+	// 自动建表
+	orm.RunSyncdb("default", false, true)
 
 	// 注册 beego 路由
 	beego.Router("/", &controllers.HomeController{})
