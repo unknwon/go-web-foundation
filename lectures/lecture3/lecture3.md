@@ -16,6 +16,7 @@
 ###补充说明
 
 - 使用 ORM 时用到的 `default` 为默认使用的数据库之意，并非数据库的名称叫 `default`。 
+- 当在使用 `range` 时同时需要得到 map 类型的 key 和 value 时，可参考 [本文](http://www.golang.tc/t/50d6bf54320b527e6d00001a)。
 
 ###相关链接
 
