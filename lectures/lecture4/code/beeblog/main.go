@@ -20,6 +20,7 @@ func main() {
 
 	// 注册 beego 路由
 	beego.Router("/", &controllers.HomeController{})
+	beego.Router("/login", &controllers.LoginController{})
 
 	// 启动 beego
 	beego.Run()
