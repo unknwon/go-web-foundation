@@ -3,6 +3,7 @@ package models
 import (
 	"os"
 	"path"
+	"strconv"
 	"time"
 
 	"github.com/Unknwon/com"
@@ -57,4 +58,48 @@ func RegisterDB() {
 	orm.RegisterDriver(_SQLITE3_DRIVER, orm.DR_Sqlite)
 	// 注册默认数据库
 	orm.RegisterDataBase("default", _SQLITE3_DRIVER, _DB_NAME, 10)
+}
+
+func AddCategory(name string) error {
+	o := orm.NewOrm()
+
+	cate := &Category{Title: name}
+
+	// 查询数据
+	qs := o.QueryTable("category")
+	err := qs.Filter("title", name).One(cate)
+	if err == nil {
+		return err
+	}
+
+	// 插入数据
+	_, err = o.Insert(cate)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func DeleteCategory(id string) error {
+	cid, err := strconv.ParseInt(id, 10, 64)
+	if err != nil {
+		return err
+	}
+
+	o := orm.NewOrm()
+
+	cate := &Category{Id: cid}
+	_, err = o.Delete(cate)
+	return err
+}
+
+func GetAllCategories() ([]*Category, error) {
+	o := orm.NewOrm()
+
+	cates := make([]*Category, 0)
+
+	qs := o.QueryTable("category")
+	_, err := qs.All(&cates)
+	return cates, err
 }
