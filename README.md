@@ -49,7 +49,7 @@
 		</tr>
 		<tr>
 			<td>第 4 课</td>
-			<td><a1 href="lectures/lecture4/lecture4.md">用户登录及管理</a></td>
+			<td><a href="lectures/lecture4/lecture4.md">登录及分类管理</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>

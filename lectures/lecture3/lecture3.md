@@ -27,4 +27,4 @@
 ###课程链接
 
 - [第2课：初窥 Web 开发](../lecture2/lecture2.md)
-- [第4课：用户登录与管理](../lecture4/lecture4.md)
+- [第4课：登录及分类管理](../lecture4/lecture4.md)
