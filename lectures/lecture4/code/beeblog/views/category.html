@@ -6,16 +6,6 @@
 		<div class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				{{template "navbar" .}}
-
-				<div class="pull-right">
-					<ul class="nav navbar-nav">
-						{{if .IsLogin}}
-						<li><a href="/login?exit=true">退出登录</a></li>
-						{{else}}
-						<li><a href="/login">管理员登录</a></li>
-						{{end}}
-					</ul>
-				</div>
 			</div>	
 		</div>
 		

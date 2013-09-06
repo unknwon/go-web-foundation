@@ -1,8 +1,6 @@
 package controllers
 
 import (
-	"net/url"
-
 	"github.com/astaxie/beego"
 )
 
@@ -44,7 +42,7 @@ func (this *LoginController) Post() {
 	return
 }
 
-func checkAccount(ctx *beego.Context, input url.Values) bool {
+func checkAccount(ctx *beego.Context) bool {
 	ck, err := ctx.Request.Cookie("uname")
 	if err != nil {
 		return false
