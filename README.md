@@ -44,15 +44,15 @@
 			<td>
 				<a href="http://www.tudou.com/programs/view/BuoN93Yplow/">土豆网</a>
 				<a href="http://www.ucai.cn/course/chapter/87/3267/4792">优才网</a>
-				<a1 href="">网易云课堂</a>
+				<a href="http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=468064&courseId=328001">网易云课堂</a>
 			</td>
 		</tr>
 		<tr>
 			<td>第 4 课</td>
 			<td><a href="lectures/lecture4/lecture4.md">登录及分类管理</a></td>
 			<td>
-				<a1 href="">土豆网</a>
-				<a1 href="">优才网</a>
+				<a href="http://www.tudou.com/programs/view/UoJ9EgyqqbY/">土豆网</a>
+				<a href="http://www.ucai.cn/course/chapter/87/3267/4793">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>

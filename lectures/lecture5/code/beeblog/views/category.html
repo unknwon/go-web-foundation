@@ -1,0 +1,57 @@
+{{template "header"}}
+    	<title>分类 - 我的 beego 博客</title>
+  	</head>
+	
+	<body>
+		<div class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				{{template "navbar" .}}
+			</div>	
+		</div>
+		
+		<div class="container">
+			<h1>分类列表</h1>
+			<form class="form-inline" method="GET" action="/category">
+				<div class="form-group">
+					<input id="name" type="text" class="form-control" name="name" placeholder="Enter category name">
+					<input type="hidden" name="op" value="add">
+				</div>
+				<button type="submit" class="btn btn-default" onclick="return checkInput();">添加分类</button>
+			</form>
+	      	<script type="text/javascript">
+		      	function checkInput() {
+		      		var uname = document.getElementById("name");
+		      		if (uname.value.length == 0) {
+		      			alert("请输入分类名称");
+		      			return false;
+		      		}
+		      	}
+	      	</script>
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>分类名称</th>
+						<th>文章数</th>
+						<th>操作</th>
+					</tr>
+				</thead>
+				<tbody>
+					{{range .Categories}}
+					<tr>
+						<th>{{.Id}}</th>
+						<th>{{.Title}}</th>
+						<th>{{.TopicCount}}</th>
+						<th>
+							<a href="/category?op=del&id={{.Id}}">删除</a>
+						</th>
+					</tr>
+					{{end}}
+				</tbody>
+			</table>
+		</div>
+
+		<script type="text/javascript" src="http://cdn.staticfile.org/jquery/2.0.3/jquery.min.js"></script>
+		<script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+	</body>
+</html>
