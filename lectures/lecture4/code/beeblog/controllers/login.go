@@ -2,6 +2,7 @@ package controllers
 
 import (
 	"github.com/astaxie/beego"
+	"github.com/astaxie/beego/context"
 )
 
 type LoginController struct {
@@ -42,7 +43,7 @@ func (this *LoginController) Post() {
 	return
 }
 
-func checkAccount(ctx *beego.Context) bool {
+func checkAccount(ctx *context.Context) bool {
 	ck, err := ctx.Request.Cookie("uname")
 	if err != nil {
 		return false
