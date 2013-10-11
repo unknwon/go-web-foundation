@@ -57,6 +57,11 @@ func (this *TopicController) Add() {
 }
 
 func (this *TopicController) Delete() {
+	if !checkAccount(this.Ctx) {
+		this.Redirect("/login", 302)
+		return
+	}
+	
 	err := models.DeleteTopic(this.Input().Get("tid"))
 	if err != nil {
 		beego.Error(err)

@@ -114,10 +114,7 @@ func AddTopic(title, content string) error {
 		Updated: time.Now(),
 	}
 	_, err := o.Insert(topic)
-	if err != nil {
-		return err
-	}
-	return nil
+	return err
 }
 
 func GetTopic(tid string) (*Topic, error) {
