@@ -27,4 +27,4 @@
 ###课程链接
 
 - [第 4 课：登录及分类管理](../lecture4/lecture4.md)
-- [第 6 课：实现评论功能](../lecture6/lecture6.md)
+- [第 6 课：评论与分类显示](../lecture6/lecture6.md)

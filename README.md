@@ -67,7 +67,7 @@
 		</tr>
 		<tr>
 			<td>第 6 课</td>
-			<td><a1 href="lectures/lecture6/lecture6.md">实现评论功能</a></td>
+			<td><a1 href="lectures/lecture6/lecture6.md">评论与分类显示</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
