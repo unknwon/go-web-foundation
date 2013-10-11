@@ -60,8 +60,8 @@
 			<td>第 5 课</td>
 			<td><a href="lectures/lecture5/lecture5.md">文章的添加与删除</a></td>
 			<td>
-				<a1 href="">土豆网</a>
-				<a1 href="">优才网</a>
+				<a href="http://www.tudou.com/programs/view/g9q30NSRI8c/">土豆网</a>
+				<a href="http://www.ucai.cn/course/chapter/87/3267/4800">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
@@ -85,7 +85,7 @@
 		</tr>
 		<tr>
 			<td>第8课</td>
-			<td><a1 href="lectures/lecture8/lecture8.md">模板函数与图片上传</a></td>
+			<td><a1 href="lectures/lecture8/lecture8.md">图片与附件上传</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -94,7 +94,7 @@
 		</tr>
 		<tr>
 			<td>第9课</td>
-			<td><a1 href="lectures/lecture9/lecture9.md">增加登录限制</a></td>
+			<td><a1 href="lectures/lecture9/lecture9.md">国际化支持</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
