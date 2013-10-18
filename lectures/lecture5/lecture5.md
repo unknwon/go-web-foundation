@@ -4,7 +4,7 @@
 ###基本信息
 
 - 课程时长：1:03:30
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/g9q30NSRI8c/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4800) [网易云课堂]
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/g9q30NSRI8c/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4800) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=502075&courseId=328001)
 
 ###课程大纲
 

@@ -63,7 +63,7 @@
 			<td>
 				<a href="http://www.tudou.com/programs/view/g9q30NSRI8c/">土豆网</a>
 				<a href="http://www.ucai.cn/course/chapter/87/3267/4800">优才网</a>
-				<a1 href="">网易云课堂</a>
+				<a href="http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=502075&courseId=328001">网易云课堂</a>
 			</td>
 		</tr>
 		<tr>
