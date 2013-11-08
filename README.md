@@ -70,7 +70,7 @@
 			<td>第 6 课</td>
 			<td><a href="lectures/lecture6/lecture6.md">评论与分类显示</a></td>
 			<td>
-				<a1 href="">土豆网</a>
+				<a href="http://www.tudou.com/programs/view/JFL7PGjpz4Q/">土豆网</a>
 				<a1 href="">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
