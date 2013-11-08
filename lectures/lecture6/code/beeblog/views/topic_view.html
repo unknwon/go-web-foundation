@@ -18,6 +18,7 @@
 		
 		<div class="container">
             {{$tid := .Topic.Id}}
+			{{$isLogin := .IsLogin}}
             {{range .Replies}}
             <h3>{{.Name}} <small>{{.Created}} <a href="/reply/delete?tid={{$tid}}&rid={{.Id}}">删除</a></small> </h3>
             {{.Content}}

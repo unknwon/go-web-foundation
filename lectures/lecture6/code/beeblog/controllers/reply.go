@@ -22,6 +22,9 @@ func (this *ReplyController) Add() {
 }
 
 func (this *ReplyController) Delete() {
+	if !checkAccount(this.Ctx) {
+		return
+	}
 	tid := this.Input().Get("tid")
 	err := models.DeleteReply(this.Input().Get("rid"))
 	if err != nil {
