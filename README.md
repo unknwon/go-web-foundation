@@ -78,7 +78,7 @@
 		</tr>
 		<tr>
 			<td>第 7 课</td>
-			<td><a1 href="lectures/lecture7/lecture7.md">为文章增加标签</a></td>
+			<td><a href="lectures/lecture7/lecture7.md">为文章增加标签</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
