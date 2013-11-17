@@ -6,7 +6,7 @@
 
 - 教程讲师：[无闻](http://weibo.com/Obahua)
 - 教程简介：《Go Web基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向完成《Go编程基础》教程后希望了解有关 Go Web 开发的学习者。
-- Go 语言版本：1.1.1-1.2rc2
+- Go 语言版本：1.1.1-1.2rc4
 - 教程涉及第三方库：[beego](https://github.com/astaxie/beego)（V0.9.9）、[go-sqlite3](https://github.com/mattn/go-sqlite3)
 - 教程开发环境：Windows 7 64 位
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
@@ -14,6 +14,7 @@
 - 全套视频下载地址：[百度网盘](http://pan.baidu.com/share/link?shareid=136613208&uk=822891499)
 
 ### 教程大纲
+
 <table class="table table-condensed table-bordered">
 	<tbody>
 		<tr>
