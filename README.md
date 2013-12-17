@@ -7,7 +7,7 @@
 - 教程讲师：[无闻](http://weibo.com/Obahua)
 - 教程简介：《Go Web基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向完成《Go编程基础》教程后希望了解有关 Go Web 开发的学习者。
 - Go 语言版本：1.1.1-1.2
-- 教程涉及第三方库：[beego](https://github.com/astaxie/beego)（V1.0.0）、[go-sqlite3](https://github.com/mattn/go-sqlite3)
+- 教程涉及第三方库：[beego](https://github.com/astaxie/beego)（V1.0.0）、[go-sqlite3](https://github.com/mattn/go-sqlite3)、[com](https://github.com/Unknwon/com)、[i18n](https://github.com/beego/i18n)
 - 教程开发环境：Windows 7 64 位
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - 收录网站：
@@ -25,7 +25,7 @@
 			<th>在线观看</th>
 		</tr>
 		<tr>
-			<td>第1课</td>
+			<td>第 1 课</td>
 			<td><a href="lectures/lecture1/lecture1.md">博客项目设计</a></td>
 			<td>
 				<a href="http://www.tudou.com/programs/view/gXZb9tGNsGU/">土豆网</a>
@@ -83,22 +83,22 @@
 			<td><a href="lectures/lecture7/lecture7.md">为文章增加标签</a></td>
 			<td>
 				<a href="http://www.tudou.com/programs/view/QpE6LM3Ie2k/">土豆网</a>
-				<a1 href="">优才网</a>
-				<a1 href="">网易云课堂</a>
+				<a href="http://www.ucai.cn/course/chapter/87/3267/6400">优才网</a>
+				<a href="http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=626001&courseId=328001">网易云课堂</a>
 			</td>
 		</tr>
 		<tr>
-			<td>第8课</td>
+			<td>第 8 课</td>
 			<td><a href="lectures/lecture8/lecture8.md">文章附件上传</a></td>
 			<td>
-				<a1 href="">土豆网</a>
+				<a href="http://www.tudou.com/programs/view/UqVp_KqSc_A/">土豆网</a>
 				<a1 href="">优才网</a>
-				<a1 href="">网易云课堂</a>
+				<a href="http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=626002&courseId=328001">网易云课堂</a>
 			</td>
 		</tr>
 		<tr>
-			<td>第9课</td>
-			<td><a1 href="lectures/lecture9/lecture9.md">国际化支持</a></td>
+			<td>第 9 课</td>
+			<td><a href="lectures/lecture9/lecture9.md">国际化支持</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -106,7 +106,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第10课</td>
+			<td>第 10 课</td>
 			<td><a1 href="lectures/lecture10/lecture10.md">自建 HTTP 中间件</a></td>
 			<td>
 				<a1 href="">土豆网</a>
@@ -115,7 +115,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第11课</td>
+			<td>第 11 课</td>
 			<td><a1 href="lectures/lecture11/lecture11.md">简易的 RPC 实现</a></td>
 			<td>
 				<a1 href="">土豆网</a>
@@ -124,7 +124,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第12课</td>
+			<td>第 12 课</td>
 			<td><a1 href="lectures/lecture12/lecture12.md">搭建 REST 服务</a></td>
 			<td>
 				<a1 href="">土豆网</a>
@@ -133,7 +133,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>第13课</td>
+			<td>第 13 课</td>
 			<td><a1 href="lectures/lecture13/lecture13.md">网站安全浅析</a></td>
 			<td>
 				<a1 href="">土豆网</a>
