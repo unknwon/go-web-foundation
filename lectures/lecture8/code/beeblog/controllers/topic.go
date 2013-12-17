@@ -114,7 +114,9 @@ func (this *TopicController) Modify() {
 func (this *TopicController) View() {
 	this.TplNames = "topic_view.html"
 
-	tid := this.Ctx.Input.Params("0")
+	reqUrl := this.Ctx.Request.RequestURI
+	i := strings.LastIndex(reqUrl, "/")
+	tid := reqUrl[i+1:]
 	topic, err := models.GetTopic(tid)
 	if err != nil {
 		beego.Error(err)
