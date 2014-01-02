@@ -100,8 +100,8 @@
 			<td>第 9 课</td>
 			<td><a href="lectures/lecture9/lecture9.md">国际化支持</a></td>
 			<td>
-				<a1 href="">土豆网</a>
-				<a1 href="">优才网</a>
+				<a href="http://www.tudou.com/programs/view/Mic4x6lwNzo/">土豆网</a>
+				<a href="http://www.ucai.cn/course/chapter/69/3267/6814">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
