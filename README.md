@@ -8,7 +8,7 @@
 - 教程简介：《Go Web基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向完成《Go编程基础》教程后希望了解有关 Go Web 开发的学习者。
 - Go 语言版本：1.1.1-1.2
 - 教程涉及第三方库：[beego](https://github.com/astaxie/beego)（v0.9.+ - 1.0.+）、[go-sqlite3](https://github.com/mattn/go-sqlite3)、[com](https://github.com/Unknwon/com)、[i18n](https://github.com/beego/i18n)
-- 教程开发环境：Windows 7 64 位（1-8 课）、Mac OS X 10.9（9-13 课）
+- 教程开发环境：Windows 7 64 位（1-8 课）、Mac OS X 10.9（9-12 课）
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - 收录网站：
 	-  [优才网](http://www.ucai.cn/course/show/87) 
@@ -116,7 +116,7 @@
 		</tr>
 		<tr>
 			<td>第 11 课</td>
-			<td><a1 href="lectures/lecture11/lecture11.md">简易的 RPC 实现</a></td>
+			<td><a href="lectures/lecture11/lecture11.md">简易的 RPC 实现</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
@@ -126,15 +126,6 @@
 		<tr>
 			<td>第 12 课</td>
 			<td><a1 href="lectures/lecture12/lecture12.md">搭建 REST 服务</a></td>
-			<td>
-				<a1 href="">土豆网</a>
-				<a1 href="">优才网</a>
-				<a1 href="">网易云课堂</a>
-			</td>
-		</tr>
-		<tr>
-			<td>第 13 课</td>
-			<td><a1 href="lectures/lecture13/lecture13.md">网站安全浅析</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>
