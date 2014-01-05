@@ -118,7 +118,7 @@
 			<td>第 11 课</td>
 			<td><a href="lectures/lecture11/lecture11.md">简易的 RPC 实现</a></td>
 			<td>
-				<a1 href="">土豆网</a>
+				<a href="http://www.tudou.com/programs/view/QdpzbVZsnN0/">土豆网</a>
 				<a1 href="">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>

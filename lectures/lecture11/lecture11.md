@@ -3,15 +3,15 @@
 
 ### 基本信息
 
-- 课程时长：00:00
-- 在线观看：[土豆网] [优才网] [网易云课堂]
+- 课程时长：28:37
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/QdpzbVZsnN0/) [优才网] [网易云课堂]
 
 ### 课程大纲
 
 	[00:00] 知识回顾
-	[00:00] HTTP RPC
-	[00:00] TCP RPC
-	[00:00] JSON RPC
+	[01:39] HTTP RPC
+	[19:59] TCP RPC
+	[24:36] JSON RPC
 	
 ### 补充说明
 
