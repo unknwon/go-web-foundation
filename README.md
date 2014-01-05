@@ -125,7 +125,7 @@
 		</tr>
 		<tr>
 			<td>第 12 课</td>
-			<td><a1 href="lectures/lecture12/lecture12.md">搭建 REST 服务</a></td>
+			<td><a href="lectures/lecture12/lecture12.md">Go Web 扩展学习</a></td>
 			<td>
 				<a1 href="">土豆网</a>
 				<a1 href="">优才网</a>

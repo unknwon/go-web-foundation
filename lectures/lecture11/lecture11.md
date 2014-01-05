@@ -26,4 +26,4 @@
 ### 课程链接
 
 - [第 10 课：自建 HTTP 中间件](../lecture10/lecture10.md)
-- [第 12 课：搭建 REST 服务](../lecture12/lecture12.md)
+- [第 12 课：Go Web 扩展学习](../lecture12/lecture12.md)
