@@ -13,6 +13,7 @@
 - 收录网站：
 	-  [优才网](http://www.ucai.cn/course/show/87) 
 	-  [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=328001#/courseMain)
+	- [Go China 网络课堂](http://edu.go-china.org/course/2)
 - 全套视频下载地址：[百度网盘](http://pan.baidu.com/share/link?shareid=136613208&uk=822891499)
 
 ### 教程大纲
