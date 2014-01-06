@@ -119,7 +119,7 @@
 			<td><a href="lectures/lecture11/lecture11.md">简易的 RPC 实现</a></td>
 			<td>
 				<a href="http://www.tudou.com/programs/view/QdpzbVZsnN0/">土豆网</a>
-				<a1 href="">优才网</a>
+				<a href="http://www.ucai.cn/course/chapter/87/3267/6816">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
@@ -127,8 +127,8 @@
 			<td>第 12 课</td>
 			<td><a href="lectures/lecture12/lecture12.md">Go Web 扩展学习</a></td>
 			<td>
-				<a1 href="">土豆网</a>
-				<a1 href="">优才网</a>
+				<a href="http://www.tudou.com/programs/view/oXtAdeVy-yo/">土豆网</a>
+				<a href="http://www.ucai.cn/course/chapter/87/3267/6817">优才网</a>
 				<a1 href="">网易云课堂</a>
 			</td>
 		</tr>
