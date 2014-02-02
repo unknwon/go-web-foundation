@@ -3,8 +3,8 @@
 
 ### 基本信息
 
-- 课程时长：1:00:11
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/UoJ9EgyqqbY/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4793) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=476057&courseId=328001)
+- **课程时长**：1:00:11
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/UoJ9EgyqqbY/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4793) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=476057&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/19)
 
 ### 课程大纲
 
@@ -19,9 +19,9 @@
 
 ### 相关链接
 
-暂无链接
+- 暂无链接
 
 ### 课程链接
 
-- [第3课：模板用法讲解](../lecture3/lecture3.md)
-- [第5课：文章的添加与删除](../lecture5/lecture5.md)
+- [第 3 课：模板用法讲解](../lecture3/lecture3.md)
+- [第 5 课：文章的添加与删除](../lecture5/lecture5.md)

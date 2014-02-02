@@ -1,10 +1,10 @@
-第1课：博客项目设计
+第 1 课：博客项目设计
 ==========================
 
 ### 基本信息
 
-- 课程时长：20:33
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/gXZb9tGNsGU/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4710) [网易云课堂]
+- **课程时长**：20:33
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/gXZb9tGNsGU/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4710) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=442046&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/16)
 
 ### 课程大纲
 
@@ -17,7 +17,7 @@
 	
 ### 补充说明
 
-暂无说明
+- 暂无说明
 
 ### 相关链接
 
@@ -33,4 +33,4 @@
 
 ### 课程链接
 
-- [第2课：初窥 Web 开发](../lecture2/lecture2.md)
+- [第 2 课：初窥 Web 开发](../lecture2/lecture2.md)

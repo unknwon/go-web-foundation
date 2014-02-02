@@ -1,10 +1,10 @@
-第3课：模板用法讲解
+第 3 课：模板用法讲解
 ==========================
 
 ### 基本信息
 
-- 课程时长：47:41
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/BuoN93Yplow/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4792) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=468064&courseId=328001)
+- **课程时长**：47:41
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/BuoN93Yplow/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4792) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=468064&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/18)
 
 ### 课程大纲
 
@@ -28,5 +28,5 @@
 
 ### 课程链接
 
-- [第2课：初窥 Web 开发](../lecture2/lecture2.md)
-- [第4课：登录及分类管理](../lecture4/lecture4.md)
+- [第 2 课：初窥 Web 开发](../lecture2/lecture2.md)
+- [第 4 课：登录及分类管理](../lecture4/lecture4.md)

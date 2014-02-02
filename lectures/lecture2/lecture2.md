@@ -1,10 +1,10 @@
-第2课：初窥 Web 开发
+第 2 课：初窥 Web 开发
 ==========================
 
 ### 基本信息
 
-- 课程时长：43:31
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/sqZoUrqNJno/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4732) [网易云课堂]
+- **课程时长**：43:31
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/sqZoUrqNJno/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4732) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=442047&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/17)
 
 ### 课程大纲
 
@@ -17,7 +17,7 @@
 	
 ### 补充说明
 
-暂无说明
+- 暂无说明
 
 ### 相关链接
 
@@ -28,5 +28,5 @@
 
 ### 课程链接
 
-- [第1课：博客项目设计](../lecture1/lecture1.md)
-- [第3课：模板用法讲解](../lecture3/lecture3.md)
+- [第 1 课：博客项目设计](../lecture1/lecture1.md)
+- [第 3 课：模板用法讲解](../lecture3/lecture3.md)
