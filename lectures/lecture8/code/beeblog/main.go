@@ -32,7 +32,7 @@ func main() {
 	beego.Router("/login", &controllers.LoginController{})
 
 	// 附件处理
-	os.Mkdir("attchment", os.ModePerm)
+	os.Mkdir("attachment", os.ModePerm)
 	beego.Router("/attachment/:all", &controllers.AttachController{})
 
 	// 启动 beego
