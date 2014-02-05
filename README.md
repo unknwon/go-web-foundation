@@ -55,6 +55,7 @@
 	- [Golang 中国博客](http://blog.go-china.org/)
 - 辅助站点
 	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
+	- [Go Build](http://gobuild.io)：Go 语言在线编译
 
 ### 授权许可
 
