@@ -3,8 +3,8 @@
 
 ### 基本信息
 
-- 课程时长：28:37
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/QdpzbVZsnN0/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6816) [网易云课堂]
+- **课程时长**：28:37
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/QdpzbVZsnN0/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6816) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=651206&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/26)
 
 ### 课程大纲
 
@@ -15,7 +15,7 @@
 	
 ### 补充说明
 
-暂无说明
+- 暂无说明
 
 ### 相关链接
 
