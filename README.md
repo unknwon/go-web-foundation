@@ -15,7 +15,6 @@
 - **收录网站**：
 	-  [优才网](http://www.ucai.cn/course/show/87) 
 	-  [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=328001#/courseMain)
-	- [Go China 网络课堂](http://edu.go-china.org/course/2)
 - **课程下载**：
 	- [百度网盘](http://pan.baidu.com/share/link?shareid=136613208&uk=822891499)
 
@@ -27,18 +26,18 @@
 
 | 课时数 | 课时标题 | 在线播放 |
 |:-----:|:--------|:-------|
-|第 1 课|[博客项目设计](lectures/lecture1/lecture1.md)|[土豆网](http://www.tudou.com/programs/view/gXZb9tGNsGU/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4710) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=442046&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/16)|
-|第 2 课|[初窥 Web 开发](lectures/lecture2/lecture2.md)|[土豆网](http://www.tudou.com/programs/view/sqZoUrqNJno/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4732) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=442047&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/17)|
-|第 3 课|[模板用法讲解](lectures/lecture3/lecture3.md)|[土豆网](http://www.tudou.com/programs/view/BuoN93Yplow/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4792) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=468064&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/18)|
-|第 4 课|[登录及分类管理](lectures/lecture4/lecture4.md)|[土豆网](http://www.tudou.com/programs/view/UoJ9EgyqqbY/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4793) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=476057&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/19)|
-|第 5 课|[文章的添加与删除](lectures/lecture5/lecture5.md)|[土豆网](http://www.tudou.com/programs/view/g9q30NSRI8c/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4800) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=502075&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/20)|
-|第 6 课|[评论与分类显示](lectures/lecture6/lecture6.md)|[土豆网](http://www.tudou.com/programs/view/JFL7PGjpz4Q/) [优才网](http://www.ucai.cn/course/chapter/87/3267/5967) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=548094&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/21)|
-|第 7 课|[为文章增加标签](lectures/lecture7/lecture7.md)|[土豆网](http://www.tudou.com/programs/view/QpE6LM3Ie2k/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6400) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=626001&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/22)|
-|第 8 课|[文章附件上传](lectures/lecture8/lecture8.md)|[土豆网](http://www.tudou.com/programs/view/UqVp_KqSc_A/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6401) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=626002&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/23)|
-|第 9 课|[国际化支持](lectures/lecture9/lecture9.md)|[土豆网](http://www.tudou.com/programs/view/Mic4x6lwNzo/) [优才网](http://www.ucai.cn/course/chapter/69/3267/6814) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=652055&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/24)|
-|第 10 课|[自建 HTTP 中间件](lectures/lecture10/lecture10.md)|[土豆网](http://www.tudou.com/programs/view/zxRhEOPz7BI/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6815) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=651205&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/25)|
-|第 11 课|[简易的 RPC 实现](lectures/lecture11/lecture11.md)|[土豆网](http://www.tudou.com/programs/view/QdpzbVZsnN0/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6816) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=651206&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/26)|
-|第 12 课|[Go Web 扩展学习](lectures/lecture12/lecture12.md)|[土豆网](http://www.tudou.com/programs/view/oXtAdeVy-yo/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6817) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=651207&courseId=328001) [Go China 网络课堂](http://edu.go-china.org/course/2/learn#lesson/27)|
+|第 1 课|[博客项目设计](lectures/lecture1/lecture1.md)|[土豆网](http://www.tudou.com/programs/view/gXZb9tGNsGU/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4710) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=442046&courseId=328001)|
+|第 2 课|[初窥 Web 开发](lectures/lecture2/lecture2.md)|[土豆网](http://www.tudou.com/programs/view/sqZoUrqNJno/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4732) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=442047&courseId=328001)|
+|第 3 课|[模板用法讲解](lectures/lecture3/lecture3.md)|[土豆网](http://www.tudou.com/programs/view/BuoN93Yplow/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4792) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=468064&courseId=328001)|
+|第 4 课|[登录及分类管理](lectures/lecture4/lecture4.md)|[土豆网](http://www.tudou.com/programs/view/UoJ9EgyqqbY/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4793) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=476057&courseId=328001)|
+|第 5 课|[文章的添加与删除](lectures/lecture5/lecture5.md)|[土豆网](http://www.tudou.com/programs/view/g9q30NSRI8c/) [优才网](http://www.ucai.cn/course/chapter/87/3267/4800) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=502075&courseId=328001)|
+|第 6 课|[评论与分类显示](lectures/lecture6/lecture6.md)|[土豆网](http://www.tudou.com/programs/view/JFL7PGjpz4Q/) [优才网](http://www.ucai.cn/course/chapter/87/3267/5967) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=548094&courseId=328001)|
+|第 7 课|[为文章增加标签](lectures/lecture7/lecture7.md)|[土豆网](http://www.tudou.com/programs/view/QpE6LM3Ie2k/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6400) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=626001&courseId=328001)|
+|第 8 课|[文章附件上传](lectures/lecture8/lecture8.md)|[土豆网](http://www.tudou.com/programs/view/UqVp_KqSc_A/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6401) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=626002&courseId=328001)|
+|第 9 课|[国际化支持](lectures/lecture9/lecture9.md)|[土豆网](http://www.tudou.com/programs/view/Mic4x6lwNzo/) [优才网](http://www.ucai.cn/course/chapter/69/3267/6814) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=652055&courseId=328001)|
+|第 10 课|[自建 HTTP 中间件](lectures/lecture10/lecture10.md)|[土豆网](http://www.tudou.com/programs/view/zxRhEOPz7BI/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6815) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=651205&courseId=328001)|
+|第 11 课|[简易的 RPC 实现](lectures/lecture11/lecture11.md)|[土豆网](http://www.tudou.com/programs/view/QdpzbVZsnN0/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6816) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=651206&courseId=328001)|
+|第 12 课|[Go Web 扩展学习](lectures/lecture12/lecture12.md)|[土豆网](http://www.tudou.com/programs/view/oXtAdeVy-yo/) [优才网](http://www.ucai.cn/course/chapter/87/3267/6817) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=328001#/learn/video?lessonId=651207&courseId=328001)|
 
 ### 相关资源
 
@@ -46,6 +45,7 @@
 	 - [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	 - [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
 - QQ 交流群
+	- Martini 交流群：371440803
 	- Golang Web开发：231956113
 	- Go Web编程：259316004
 - 学习网站
