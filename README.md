@@ -16,7 +16,7 @@
 	-  [优才网](http://www.ucai.cn/course/show/87) 
 	-  [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=328001#/courseMain)
 - **课程下载**：
-	- [百度网盘](http://pan.baidu.com/share/link?shareid=136613208&uk=822891499)
+	- [百度网盘](http://pan.baidu.com/s/1mg8zJUK)（提取码：sk4t）
 
 ### 捐赠作者
 
