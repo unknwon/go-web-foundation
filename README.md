@@ -7,10 +7,10 @@
 
 - **教程讲师**：[无闻](http://about.me/unknwon)
 - **教程简介**：《Go Web基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go编程基础》教程后希望了解有关 Go Web 开发的学习者。
-- **开发环境**：Go 语言 1.1.1-1.2 版本
-- **开发工具**：Sublime Text 3
+- **开发环境**：Go 语言 1.0.3-1.3.* 版本
+- **开发工具**：Sublime Text 2-3
 - **开发系统**：Windows 7 64 位（1-8 课）、Mac OS X 10.9（9-12 课）
-- **第三方库**：[beego](https://github.com/astaxie/beego)（v0.9.+ - 1.0.+）、[go-sqlite3](https://github.com/mattn/go-sqlite3)、[com](https://github.com/Unknwon/com)、[i18n](https://github.com/beego/i18n)
+- **第三方库**：[beego](https://github.com/astaxie/beego)（v0.9.+ - 1.+）、[go-sqlite3](https://github.com/mattn/go-sqlite3)、[com](https://github.com/Unknwon/com)、[i18n](https://github.com/beego/i18n)
 - **其它说明**：每堂课都会建立一个文件夹（例如：lecture1），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - **收录网站**：
 	-  [优才网](http://www.ucai.cn/course/show/87) 
@@ -49,13 +49,13 @@
 	- Golang Web开发：231956113
 	- Go Web编程：259316004
 - 学习网站
+	- [Golang 友团](http://golanghome.com)
 	- [Go 中国社区](http://bbs.go-china.org/)
 	- [Go 语言学习园地](http://studygolang.com/)
 	- [Golang 中国](http://golangtc.com/)
 	- [Golang 中国博客](http://blog.go-china.org/)
 - 辅助站点
 	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
-	- [Go Build](http://gobuild.io)：Go 语言在线编译
 
 ### 授权许可
 
