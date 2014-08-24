@@ -81,7 +81,7 @@ func myHandler(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	http.Handle("/", websocket.Handler(Echo))
-	http.Handle("/send", http.HandlerFunc(myHandler))
+	http.HandlerFunc("/send",myHandler)
 
 	if err := http.ListenAndServe("localhost:1234", nil); err != nil {
 		log.Fatal("ListenAndServe:", err)
