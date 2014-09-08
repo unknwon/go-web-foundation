@@ -15,6 +15,7 @@
 - **收录网站**：
 	-  [优才网](http://www.ucai.cn/course/show/87) 
 	-  [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=328001#/courseMain)
+	-  [51CTO 学院](http://edu.51cto.com/course/course_id-2038.html)
 - **课程下载**：
 	- [百度网盘](http://pan.baidu.com/s/1mg8zJUK)（提取码：sk4t）
 
