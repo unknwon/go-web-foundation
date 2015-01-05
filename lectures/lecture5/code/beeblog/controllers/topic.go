@@ -87,7 +87,7 @@ func (this *TopicController) Modify() {
 func (this *TopicController) View() {
 	this.TplNames = "topic_view.html"
 
-	topic, err := models.GetTopic(this.Ctx.Input.Params("0"))
+	topic, err := models.GetTopic(this.Ctx.Input.Params["0"])
 	if err != nil {
 		beego.Error(err)
 		this.Redirect("/", 302)
