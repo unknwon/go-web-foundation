@@ -63,7 +63,11 @@ func RegisterDB() {
 func AddCategory(name string) error {
 	o := orm.NewOrm()
 
-	cate := &Category{Title: name}
+	cate := &Category{
+		Title:     name,
+		Created:   time.Now(),
+		TopicTime: time.Now(),
+	}
 
 	// 查询数据
 	qs := o.QueryTable("category")
