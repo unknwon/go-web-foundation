@@ -246,7 +246,7 @@ func DeleteTopic(tid string) error {
 	if len(oldCate) > 0 {
 		cate := new(Category)
 		qs := o.QueryTable("category")
-		err = qs.Filter("title", topic.Category).One(cate)
+		err = qs.Filter("title", oldCate).One(cate)
 		if err == nil {
 			cate.TopicCount--
 			_, err = o.Update(cate)
