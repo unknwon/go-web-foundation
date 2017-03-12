@@ -1,8 +1,0 @@
-{
-	"go_install": true,
-	"dir_structure":{
-		"controllers": "",
-		"models": "",
-		"others": []
-	}
-}
