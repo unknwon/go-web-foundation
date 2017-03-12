@@ -32,7 +32,9 @@
 	- Martini&Macaron 交流群：371440803
 	- Go Web 交流群：259316004
 - 辅助站点
+	- [Sourcegraph](https://sourcegraph.com/)：最强 Web 代码浏览工具
 	- [Go Walker](https://gowalker.org)：在线 Go 项目 API 文档
+	- [Gopher Channel](https://toutiao.io/subjects/18929)：Go 语言博客及视频订阅
 
 ### 授权许可
 
