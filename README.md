@@ -22,7 +22,7 @@
 
 | 课时数 | 课时标题 | 在线播放 |
 |:-----:|:--------|:-------|
-|第 1 课|[初窥 HTTP 服务器](lecture1)|网易云课堂 [YouTube](https://youtu.be/Th95sBL0H3w)|
+|第 1 课|[初窥 HTTP 服务器](lecture1)|网易云课堂 [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)|
 |第 2 课|Go 内置模板引擎|预计 2017 年 3 月 16 日|
 |第 3 课|博客项目设计|预计 2017 年 3 月 18 日|
 |...|...|...|
