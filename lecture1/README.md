@@ -3,7 +3,7 @@
 ### 基本信息
 
 - **课程时长**：23:07
-- **在线观看**：网易云课堂 [土豆网](http://www.tudou.com/programs/view/0MtwzifKOW4/) [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/0MtwzifKOW4/) [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)
 
 ### 课程大纲
 

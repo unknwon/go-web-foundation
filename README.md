@@ -15,7 +15,6 @@
 - **第三方库**：[Macaron](https://github.com/go-macaron/macaron)、[go-sqlite3](https://github.com/mattn/go-sqlite3)、[GORM](https://github.com/jinzhu/gorm)
 - **其它说明**：每堂课都会建立一个文件夹（例如：`lecture1`），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - **收录网站**：
-	- 网易云课堂
 	- [土豆网](http://www.tudou.com/plcover/OmtprBJlLyg/)
 - **课程下载**：
 	- [OneDrive](https://1drv.ms/f/s!Ai14jy0H7YfVlCj34k0exwUKuIRF)
@@ -25,7 +24,7 @@
 
 | 课时数 | 课时标题 | 在线播放 |
 |:-----:|:--------|:-------|
-|第 1 课|[初窥 HTTP 服务器](lecture1)|网易云课堂 [土豆网](http://www.tudou.com/programs/view/0MtwzifKOW4/) [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)|
+|第 1 课|[初窥 HTTP 服务器](lecture1)|[土豆网](http://www.tudou.com/programs/view/0MtwzifKOW4/) [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)|
 |第 2 课|Go 内置模板引擎|预计 2017 年 3 月 16 日|
 |第 3 课|博客项目设计|预计 2017 年 3 月 18 日|
 |...|...|...|
