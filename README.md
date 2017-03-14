@@ -19,7 +19,8 @@
 	- [土豆网](http://www.tudou.com/plcover/OmtprBJlLyg/)
 - **课程下载**：
 	- [OneDrive](https://1drv.ms/f/s!Ai14jy0H7YfVlCj34k0exwUKuIRF)
-
+	- [百度网盘](https://eyun.baidu.com/s/3pLFGRur)（提取码：`beta`）
+	
 ### 教程大纲
 
 | 课时数 | 课时标题 | 在线播放 |
