@@ -22,3 +22,4 @@
 ### 相关链接
 
 - [VS Code Go 语言插件](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go)
+- [What's Coming in Go 1.8](https://tylerchr.blog/golang-18-whats-coming/)
