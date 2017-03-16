@@ -16,6 +16,7 @@
 - **其它说明**：每堂课都会建立一个文件夹（例如：`lecture1`），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - **收录网站**：
 	- [土豆网](http://www.tudou.com/plcover/OmtprBJlLyg/)
+	- [哔哩哔哩](https://www.bilibili.com/video/av9199603/)
 - **课程下载**：
 	- [OneDrive](https://1drv.ms/f/s!Ai14jy0H7YfVlCj34k0exwUKuIRF)
 	- [百度网盘](https://eyun.baidu.com/s/3pLFGRur)（提取码：`beta`）
