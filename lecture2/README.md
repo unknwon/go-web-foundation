@@ -3,7 +3,7 @@
 ### 基本信息
 
 - **课程时长**：34:45
-- **在线观看**：
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/_2pJ9i287xA/) [YouTube](https://www.youtube.com/watch?v=5wM74kL0Qfc) [OneDrive](https://onedrive.live.com/?authkey=%21APfiTR7HBQq4hEU&cid=D587ED072D8F782D&id=D587ED072D8F782D%212602&parId=D587ED072D8F782D%212600&o=OneUp)
 
 ### 课程大纲
 
