@@ -17,4 +17,4 @@
 
 ### 相关链接
 
-- [`html/template`](https://gowalker.org/text/template)
+- [`text/template`](https://gowalker.org/text/template)
