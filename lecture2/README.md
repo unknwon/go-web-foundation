@@ -26,3 +26,4 @@
 ### 相关链接
 
 - [`text/template`](https://gowalker.org/text/template)
+- [`html/template`](https://gowalker.org/html/template)
