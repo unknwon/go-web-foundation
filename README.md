@@ -27,8 +27,8 @@
 |:-----:|:--------|:-------|
 |第 1 课|[初窥 HTTP 服务器](lecture1)|[土豆网](http://www.tudou.com/programs/view/0MtwzifKOW4/) [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)|
 |第 2 课|[基础模板用法](lecture2)|[土豆网](http://www.tudou.com/programs/view/_2pJ9i287xA/) [YouTube](https://www.youtube.com/watch?v=5wM74kL0Qfc) [OneDrive](https://onedrive.live.com/?authkey=%21APfiTR7HBQq4hEU&cid=D587ED072D8F782D&id=D587ED072D8F782D%212602&parId=D587ED072D8F782D%212600&o=OneUp)|
-|第 3 课|[高级模板用法](lecture3)|预计 2017 年 3 月 19 日|
-|第 4 课|表单提交与处理|预计 2017 年 3 月 24 日|
+|第 3 课|[高级模板用法](lecture3)|预计 2017 年 3 月 22 日|
+|第 4 课|表单提交与处理|预计 2017 年 3 月 29 日|
 |待定|博客项目设计|待定|
 |...|...|...|
 |待定|部署 Web 程序|待定|
