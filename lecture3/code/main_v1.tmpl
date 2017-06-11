@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>Go Web</title>
+    </head>
+    <body>
+        <p>Package Info:</p>
+        <ul>
+            <li>Package name: {{.Name}}</li>
+            <li>Number of functions: {{.NumFuncs}}/{{NumFuncs}}</li>
+            {{Str2html .NumVarsHTML}}
+        </ul>
+
+        <p>Logic Comparison:</p>
+        <ul>
+            <li>and: {{and true true}}</li>
+            <li>and: {{and true false}}</li>
+            <li>or: {{or true true}}</li>
+            <li>or: {{or true false}}</li>
+            <li>or: {{or false false}}</li>
+            <li>not: {{not true}}</li>
+            <li>not: {{not false}}</li>
+            <li>and + or: {{and (and true true) (or true false)}}</li>
+            <li>and + not: {{and (and true true) (not false)}}</li>
+
+            <li>NumFuncs > 10: {{gt .NumFuncs 10}}</li>
+            <li>NumFuncs > 10 and NumVars > 1000: {{and (gt .NumFuncs 10) (gt .NumVars 1000)}}</li>
+            <li>NumFuncs > 10 and NumVars < 1000: {{and (gt .NumFuncs 10) (lt .NumVars 1000)}}</li>
+            <li>{{if and (gt .NumFuncs 10) (gt .NumVars 1000)}}NumFuncs > 10 and NumVars > 1000{{end}}</li>
+            <li>{{if not (and (gt .NumFuncs 10) (gt .NumVars 1000))}}NumFuncs > 10 and NumVars > 1000{{end}}</li>
+        </ul>
+
+        <p>Pipelines:</p>
+        <ul>
+            <li>{{.NumVars | Divide | Divide | Add | Divide}}</li>
+        </ul>
+
+        <p>Template Vairbale:</p>
+        <ul>
+            <li>{{ $result := .NumVars | Divide | Divide}}</li>
+            <li>{{ $result | Add | Divide}}</li>
+        </ul>
+
+        <p>Index:</p>
+        <ul>
+            <li>{{index . "NumFuncs"}}</li>
+            <li>{{index . "NumVars"}}</li>
+            <li>{{index .Maps "Level1" "Name"}}</li>
+            <li>{{index . "Maps" "Level1" "Name"}}</li>
+            <li>{{index .Nums 1}}</li>
+            <li>{{index . "Nums" 1}}</li>
+        </ul>
+    </body>
+</html>

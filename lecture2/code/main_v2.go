@@ -26,7 +26,7 @@ func main() {
 		// tmpl := template.Must(template.ParseFiles(filepath.Join(wd, "main_v2.tmpl")))
 		tmpl, err := template.ParseFiles(filepath.Join(wd, "main_v2.tmpl"))
 		if err != nil {
-			fmt.Fprintf(w, "Parse: %v", err)
+			fmt.Fprintf(w, "ParseFiles: %v", err)
 			return
 		}
 		err = tmpl.Execute(w, &Package{
