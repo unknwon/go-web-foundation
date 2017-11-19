@@ -9,7 +9,7 @@
 
 - **教程讲师**：[无闻](https://about.me/unknwon)
 - **教程简介**：《Go Web 基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go 编程基础》教程后希望了解有关 Go Web 开发的学习者。
-- **语言版本**：Go 1.8.3
+- **语言版本**：Go 1.8.x-1.9.x
 - **开发工具**：[VS Code](https://code.visualstudio.com/)
 - **开发系统**：macOS Sierra
 - **第三方库**：[Macaron](https://github.com/go-macaron/macaron)、[go-sqlite3](https://github.com/mattn/go-sqlite3)、[GORM](https://github.com/jinzhu/gorm)
@@ -27,7 +27,7 @@
 |:-----:|:--------|:-------|
 |第 1 课|[初窥 HTTP 服务器](lecture1)|[土豆网](http://www.tudou.com/programs/view/0MtwzifKOW4/) [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)|
 |第 2 课|[基础模板用法](lecture2)|[土豆网](http://www.tudou.com/programs/view/_2pJ9i287xA/) [YouTube](https://www.youtube.com/watch?v=5wM74kL0Qfc) [OneDrive](https://onedrive.live.com/?authkey=%21APfiTR7HBQq4hEU&cid=D587ED072D8F782D&id=D587ED072D8F782D%212602&parId=D587ED072D8F782D%212600&o=OneUp)|
-|第 3 课|[高级模板用法](lecture3)|预计 2017 年 6 月 12 日|
+|第 3 课|[高级模板用法](lecture3)|预计 2017 年 11 月 20 日|
 |第 4 课|表单提交与处理|待定|
 |待定|博客项目设计|待定|
 |...|...|...|
