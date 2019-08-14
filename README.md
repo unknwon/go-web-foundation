@@ -9,9 +9,9 @@
 
 - **教程讲师**：[无闻](https://about.me/unknwon)
 - **教程简介**：《Go Web 基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go 编程基础》教程后希望了解有关 Go Web 开发的学习者。
-- **语言版本**：Go 1.8.x-1.9.x
+- **语言版本**：Go 1.8.x-1.10.x
 - **开发工具**：[VS Code](https://code.visualstudio.com/)
-- **开发系统**：macOS Sierra
+- **开发系统**：macOS 10.13.*
 - **第三方库**：[Macaron](https://github.com/go-macaron/macaron)、[go-sqlite3](https://github.com/mattn/go-sqlite3)、[GORM](https://github.com/jinzhu/gorm)
 - **其它说明**：每堂课都会建立一个文件夹（例如：`lecture1`），内含与课程进度相符的项目源码与课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - **收录网站**：
@@ -27,8 +27,9 @@
 |:-----:|:--------|:-------|
 |第 1 课|[初窥 HTTP 服务器](lecture1)|[土豆网](http://www.tudou.com/programs/view/0MtwzifKOW4/) [YouTube](https://youtu.be/Th95sBL0H3w) [OneDrive](https://onedrive.live.com/embed?cid=D587ED072D8F782D&resid=D587ED072D8F782D%212601&authkey=APcXILeit8u5Q1Y)|
 |第 2 课|[基础模板用法](lecture2)|[土豆网](http://www.tudou.com/programs/view/_2pJ9i287xA/) [YouTube](https://www.youtube.com/watch?v=5wM74kL0Qfc) [OneDrive](https://onedrive.live.com/?authkey=%21APfiTR7HBQq4hEU&cid=D587ED072D8F782D&id=D587ED072D8F782D%212602&parId=D587ED072D8F782D%212600&o=OneUp)|
-|第 3 课|[高级模板用法](lecture3)|预计 2017 年 11 月 20 日|
-|第 4 课|表单提交与处理|待定|
+|第 3 课|[高级模板用法](lecture3)|预计 2018 年 3 月|
+|第 4 课|构建模板缓存系统|待定|
+|第 5 课|表单提交与处理|待定|
 |待定|博客项目设计|待定|
 |...|...|...|
 |待定|部署 Web 程序|待定|

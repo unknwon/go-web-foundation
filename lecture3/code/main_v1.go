@@ -7,13 +7,8 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"time"
 )
-
-type Package struct {
-	Name     string
-	NumFuncs int
-	NumVars  int
-}
 
 func main() {
 	wd, err := os.Getwd()
@@ -23,24 +18,27 @@ func main() {
 	log.Print("Work directory:", wd)
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		pkg := &Package{
-			Name:     "go-web",
-			NumFuncs: 12,
-			NumVars:  1200,
-		}
-
 		tmpl, err := template.New("main_v1.tmpl").Funcs(template.FuncMap{
-			"NumFuncs": func() int {
-				return pkg.NumFuncs
+			"Add": func(num1, num2 int) int {
+				return num1 + num2
+			},
+			"Subtract": func(num1, num2 int) int {
+				return num1 - num2
+			},
+			"Multiple": func(num1, num2 int) int {
+				return num1 * num2
+			},
+			"Divide": func(num1, num2 int) int {
+				return num1 / num2
 			},
 			"Str2html": func(str string) template.HTML {
 				return template.HTML(str)
 			},
-			"Divide": func(num int) int {
-				return num / 2
+			"Date": func() time.Time {
+				return time.Now()
 			},
-			"Add": func(num int) int {
-				return num + 100
+			"Square": func(num int) int {
+				return num * num
 			},
 		}).ParseFiles(filepath.Join(wd, "main_v1.tmpl"))
 		if err != nil {
@@ -49,16 +47,11 @@ func main() {
 		}
 
 		err = tmpl.Execute(w, map[string]interface{}{
-			"Name":        pkg.Name,
-			"NumFuncs":    pkg.NumFuncs,
-			"NumVars":     pkg.NumVars,
-			"NumVarsHTML": `<li>Number of functions: 1200</li>`,
-			"Maps": map[string]map[string]string{
-				"Level1": map[string]string{
-					"Name": "go-web",
-				},
-			},
-			"Nums": []int{1, 2, 3, 4, 5, 6, 7},
+			"Link":  `<a href="https://gogs.io">Gogs Website</a>`,
+			"Num1":  15,
+			"Num2":  1024,
+			"Slice": []string{"foo", "bar"},
+			"Array": [2]string{"hello", "world"},
 		})
 		if err != nil {
 			fmt.Fprintf(w, "Execute: %v", err)
