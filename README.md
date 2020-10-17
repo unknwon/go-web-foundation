@@ -1,4 +1,4 @@
-《Go Web 基础》
+《Check Web 基础》
 =================
 
 **2017 版翻新视频正在连载中，您可以通过 [此链接](https://github.com/Unknwon/go-web-foundation/tree/v1) 查看旧版**
